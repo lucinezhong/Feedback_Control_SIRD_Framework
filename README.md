@@ -1,6 +1,7 @@
 # Feedback control introduces dynamic adjustments to parameters based on the system's current state (Susceptible, Infected, Recovered, Deceased) and pre-defined objectives (e.g., minimizing infections or fatalities).
 
 This package includes datasets and codes for the framework
+
 <strong>Research Article </strong>: "Vaccination and three non-pharmaceutical interventions determine the end of COVID-19 at 381 metropolitan statis3 tical areas in the US".
 
 <strong>Authors </strong>: Lu Zhong, Mamadou Diagne, Qi Wang, Jianxi Gao
